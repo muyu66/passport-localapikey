@@ -1,5 +1,5 @@
 {
-  "name": "passport-localapikey",
+  "name": "passport-localapikey-fix",
   "version": "0.0.4",
   "description": "Local api key authentication strategy for Passport.",
   "author": { "name": "Sudhakar Mani", "email": "mail4sudhakar@gmail.com", "url": "http://www.sudhakarmani.com/" },
